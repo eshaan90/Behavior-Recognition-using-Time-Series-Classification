@@ -20,17 +20,17 @@ Models Trained:
 
 Model architecture for Conv2d-lstm:
 <p align="left">
-  <img src="images/cnn_architecture.png" height="512" width="512" title="CNN Architecture">
+  <img src="images/cnn_architecture.png" title="CNN Architecture">
 </p>
 
 ## Results
 <p align="left">
-  <img src="images/model_accuracy_curve.png" height="512" width="512" title="Model Accuracy curve">
+  <img src="images/model_accuracy_curve.png" title="Model Accuracy curve">
 </p>
 
 <p align="right">
-  <img src="images/results_svm.png" height="512" width="512" title="Results_svm">
+  <img src="images/results_svm.png" title="Results_svm">
 </p>
 <p align="left">
-  <img src="images/results_cnn_lstm.png" height="512" width="512" title="Results_CNN_LSTM">
+  <img src="images/results_cnn_lstm.png" title="Results_CNN_LSTM">
 </p>
