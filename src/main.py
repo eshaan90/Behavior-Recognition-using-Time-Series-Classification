@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 13 18:24:34 2019
 
-@author: rajar
-"""
 import numpy as np
 import pandas as pd
 from sklearn.svm import SVC
@@ -28,5 +24,3 @@ model=SVC(C=10,kernel='linear',gamma='scale')
 model.fit(X_train,y_train)
 y_pred = model.predict(X_test)
 print(accuracy_score(y_test,y_pred))
-
-      

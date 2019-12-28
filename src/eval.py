@@ -97,4 +97,3 @@ if __name__ == '__main__':
         eval_obj.eval_session(cur_label_path, cur_predict_path)
 
     eval_obj.print_eval()
-
