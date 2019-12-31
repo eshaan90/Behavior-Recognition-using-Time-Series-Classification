@@ -157,6 +157,8 @@ pickle_in = open("dict.pickle","rb")
 data = pickle.load(pickle_in)
 
 
+#################### Code below this point is experimental ######################
+
 '''
 Statistical tests make strong assumptions about your data. They can only be used to inform the degree to which a null hypothesis can be rejected or fail to be reject.
 
